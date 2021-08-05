@@ -1,0 +1,4 @@
+[core]
+    remote = swahili_remote
+['remote "swahili_remote"']
+    url = gdrive://1drPg-RnB4RfBYz58EbwQBmTSYh53OHmE
