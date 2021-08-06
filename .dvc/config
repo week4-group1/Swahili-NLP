@@ -1,4 +1,10 @@
 [core]
+<<<<<<< HEAD
+    remote = dvc-remote
+['remote "dvc-remote"']
+    url = /tmp/dvc-storage
+=======
     remote = swahili_remote
 ['remote "swahili_remote"']
     url = gdrive://1drPg-RnB4RfBYz58EbwQBmTSYh53OHmE
+>>>>>>> 0a16e4deca5a99983d430e609dd2d8898cd62a88
